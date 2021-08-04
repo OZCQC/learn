@@ -2,3 +2,4 @@ This is my first time to try git.
 this is true.
 I don't know how to sleep.
 just do it
+doing sth and commit
