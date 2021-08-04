@@ -1,2 +1,2 @@
 This is my first time to try git.
-Is this true?
+this is true.
